@@ -1,8 +1,8 @@
-# 2nd Power BI Project
+# Power BI Project
 
 ## Overview
 
-This repository contains the **2nd Power BI Project** designed to showcase advanced data analytics and visualization using Microsoft Power BI. The project demonstrates the use of interactive dashboards to uncover insights and present data in a meaningful way.
+This repository contains the **Power BI Project** designed to showcase advanced data analytics and visualization using Microsoft Power BI. The project demonstrates the use of interactive dashboards to uncover insights and present data in a meaningful way.
 
 ## Features
 
@@ -15,7 +15,7 @@ This repository contains the **2nd Power BI Project** designed to showcase advan
 
 ## File Structure
 
-- `2nd Power bi project.pdf` - Exported report or documentation of the Power BI dashboard.
+- `Power bi project.pdf` - Exported report or documentation of the Power BI dashboard.
 - `.pbix` (optional) - Raw Power BI file (add if available).
 - `README.md` - Project documentation.
 
